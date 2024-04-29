@@ -146,17 +146,3 @@ Prisma Client is an auto-generated and type-safe query builder for Node.js & Typ
 </li>
 </ul>
 
-## :handshake: Authors
-
-<ul>
-<li><a href="https://github.com/ahmetenesbahar">Ahmet Enes Bahar</a></li>
-<li><a href="https://github.com/atahantutar">Atahan Tutar</a></li>
-<li><a href="https://github.com/harundogdu">Harun Doğdu</a></li>
-<li><a href="https://github.com/yusufalperendumlu">Yusuf Alperen Dumlu</a></li>
-</ul>
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
