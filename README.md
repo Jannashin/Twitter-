@@ -12,7 +12,6 @@ This is a [Twitter](https://twitter.com) Clone project built with [Next.js](http
 ![](https://img.shields.io/badge/Maintained-Yes-indigo)
 ![](https://img.shields.io/github/forks/harundogdu/twitter-clone.svg)
 ![](https://img.shields.io/github/stars/harundogdu/twitter-clone.svg)
-![](https://img.shields.io/github/issues/harundogdu/twitter-clone)
 ![](https://img.shields.io/github/last-commit/harundogdu/twitter-clone)
 
 <h4>
